@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib\\mysql-connector-java-8.0.20.jar",
+        "c:\\Kuliah\\Prak PBO\\Quiz 2\\Quiz 2\\lib\\mysql-connector-java-8.0.20.jar"
+    ]
+}
